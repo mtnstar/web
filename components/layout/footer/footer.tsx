@@ -121,7 +121,9 @@ export const Footer = ({ data, icon, rawData }) => {
               </a>
             )}
           </div>
-          <RawRenderer parentColor={data.color} rawData={rawData} />
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">
+            <img src="/cc-license-logo.png" />
+          </a>
         </div>
         <div
           className={`absolute h-1 bg-gradient-to-r from-transparent ${
