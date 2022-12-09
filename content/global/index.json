@@ -10,9 +10,10 @@
   "footer": {
     "color": "default",
     "social": {
-      "facebook": "/",
-      "twitter": "/",
-      "instagram": "/"
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "github": "github.com/mtnstar"
     }
   },
   "theme": {
