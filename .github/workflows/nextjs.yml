@@ -78,6 +78,8 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.runner }} next export
       - name: Remove tinacms admin
         run: rm -r ./out/admin
+      - name: Disable jekyll
+        run: touch ./out/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
