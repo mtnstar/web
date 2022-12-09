@@ -23,7 +23,6 @@ import type { TinaMarkdownContent, Components } from "tinacms/dist/rich-text";
 const components: Components<{
   BlockQuote: {
     children: TinaMarkdownContent;
-    authorName: string;
   };
   DateTime: {
     format?: string;
@@ -38,13 +37,11 @@ const components: Components<{
   code_block: (props) => <Prism {...props} />,
   BlockQuote: (props: {
     children: TinaMarkdownContent;
-    authorName: string;
   }) => {
     return (
       <div>
         <blockquote>
           <TinaMarkdown content={props.children} />
-          {props.authorName}
         </blockquote>
       </div>
     );
@@ -148,26 +145,8 @@ export const Post = (props) => {
           </span>
         </h2>
         <div
-          data-tinafield="author"
           className="flex items-center justify-center mb-16"
         >
-          {props.author && (
-            <>
-              <div className="flex-shrink-0 mr-4">
-                <img
-                  className="h-14 w-14 object-cover rounded-full shadow-sm"
-                  src={props.author.avatar}
-                  alt={props.author.name}
-                />
-              </div>
-              <p className="text-base font-medium text-gray-600 group-hover:text-gray-800 dark:text-gray-200 dark:group-hover:text-white">
-                {props.author.name}
-              </p>
-              <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
-                —
-              </span>
-            </>
-          )}
           <p
             data-tinafield="date"
             className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150"

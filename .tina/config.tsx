@@ -59,12 +59,6 @@ const config = defineStaticConfig({
             name: "excerpt",
           },
           {
-            type: "reference",
-            label: "Author",
-            name: "author",
-            collections: ["author"],
-          },
-          {
             type: "datetime",
             label: "Posted Date",
             name: "date",
@@ -99,11 +93,6 @@ const config = defineStaticConfig({
                     name: "children",
                     label: "Quote",
                     type: "rich-text",
-                  },
-                  {
-                    name: "authorName",
-                    label: "Author",
-                    type: "string",
                   },
                 ],
               },
@@ -338,26 +327,6 @@ const config = defineStaticConfig({
                 ],
               },
             ],
-          },
-        ],
-      },
-      {
-        label: "Authors",
-        name: "author",
-        path: "content/authors",
-        format: "md",
-        fields: [
-          {
-            type: "string",
-            label: "Name",
-            name: "name",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "string",
-            label: "Avatar",
-            name: "avatar",
           },
         ],
       },

@@ -43,14 +43,12 @@ export const Testimonial = ({ data, parentField = "" }) => {
           </div>
           <footer className="text-center">
             <p
-              data-tinafield={`${parentField}.author`}
               className={`tracking-wide title-font font-bold text-lg ${
                 data.color === "primary"
                   ? `text-blue-200`
                   : `text-blue-500 dark:text-blue-300`
               }`}
             >
-              {data.author}
             </p>
           </footer>
         </blockquote>
@@ -79,11 +77,6 @@ export const testimonialBlockSchema: TinaTemplate = {
       },
       label: "Quote",
       name: "quote",
-    },
-    {
-      type: "string",
-      label: "Author",
-      name: "author",
     },
     {
       type: "string",
