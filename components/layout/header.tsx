@@ -68,9 +68,9 @@ export const Header = ({ data }) => {
                     color: data.icon.color,
                     style: data.icon.style,
                   }}
-                  className="inline-block h-auto w-10 mr-1"
+                  className="inline-block h-auto w-10"
                 />{" "}
-                Mountain Star
+                &nbsp; Mountain Star
               </a>
             </Link>
           </h4>
