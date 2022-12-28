@@ -9,8 +9,9 @@ export const Layout = ({ rawData = {}, data = layoutData, children }) => {
   return (
     <>
       <Head>
-        <title>Tina</title>
+        <title>Mountain Star</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link rel="icon" href="mtnstar.svg" />
         {data.theme.font === "nunito" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
