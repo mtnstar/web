@@ -30,7 +30,6 @@ export const Posts = ({ data }) => {
   return (
     <>
       {data.map((postData) => {
-        console.log(postData);
         const post = postData.node;
       
         return (
