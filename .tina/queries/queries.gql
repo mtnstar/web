@@ -1,6 +1,6 @@
 query pageQuery {
   ...LayoutQueryFragment
-  postConnection(sort: "date", last: 10) {
+  postConnection(sort: "date", last: 1000) {
     edges {
       node {
         id

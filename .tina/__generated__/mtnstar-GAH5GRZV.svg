@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="57.161198mm"
+   height="57.160851mm"
+   viewBox="0 0 57.161198 57.160851"
+   version="1.1"
+   id="svg28"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="mtnstar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8102132"
+     inkscape:cx="558.49774"
+     inkscape:cy="164.34528"
+     inkscape:window-width="3840"
+     inkscape:window-height="2113"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs25" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.055913,-110.28843)">
+    <circle
+       style="fill:#ffe680;fill-rule:evenodd;stroke-width:0.302883"
+       id="path121"
+       cx="114.53112"
+       cy="138.78461"
+       r="28.5805" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;stroke:#ffe680;stroke-width:2.161;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.63654,111.36904 a 27.500003,27.500003 0 0 0 -17.816997,6.59288 l 3.16156,2.58433 11.595677,-3.21272 -4.46071,11.00605 6.68951,9.85366 -12.02097,-0.77101 -7.461037,9.30227 -2.96881,-11.48302 -3.74241,-1.35909 a 27.500003,27.500003 0 0 0 -0.47594,4.98626 27.500003,27.500003 0 0 0 27.500127,27.50013 27.500003,27.500003 0 0 0 23.44301,-13.17025 h -3.02203 l 0.002,0.003 h -15.1567 l 7.8171,-12.78062 3.24063,5.64306 6.44353,-12.65504 4.43642,9.27902 a 27.500003,27.500003 0 0 0 0.29611,-3.8194 27.500003,27.500003 0 0 0 -27.49961,-27.49962 z"
+       id="path4620-3-5"
+       inkscape:export-filename="/home/mtnstar/nextcloud/ps-titan/doc/gfx/export/mountain-star.logo.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <g
+       inkscape:export-ydpi="1200"
+       inkscape:export-xdpi="1200"
+       id="g4432-8-7-5-1-3-1"
+       transform="matrix(0.04717844,0,0,0.04717844,96.290043,117.86503)"
+       inkscape:export-filename="/home/mtnstar/nextcloud/ps-titan/doc/gfx/export/mountain-star.logo.png">
+      <circle
+         r="143.76651"
+         cy="187.35715"
+         cx="376.82553"
+         id="path4217-9-3-7-0-1-2"
+         style="opacity:1;fill:#1e90ff;fill-opacity:1;stroke:#ffffff;stroke-width:14.4675;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4315-7-6-2-4-7-2-7"
+         d="M 559.96557,841.40731 H 411.50039 L 410.21295,825.6503 C 397.63563,671.71798 362.5257,586.73508 268.19556,481.89992 242.87562,453.76025 207.10028,420.03205 129.14359,350.80464 96.373495,321.70404 69.924701,297.53143 70.36841,297.08766 c 2.451441,-2.45143 155.72106,57.41174 211.67905,82.67639 194.04323,87.60911 309.66754,187.06834 377.1299,324.4046 17.73204,36.098 31.02076,71.22092 40.77504,107.77107 3.55378,13.31656 6.91529,25.39443 7.46987,26.83977 0.81875,2.13353 -26.91694,2.62782 -147.4567,2.62782 z"
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke:#ffffff;stroke-width:12.0764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4315-5-7-1-6-0-0"
+         d="M 77.0254,700.59568 V 552.13051 l 15.757035,-1.28746 C 246.71474,538.26574 331.69759,503.15581 436.53274,408.82566 c 28.13967,-25.31994 61.86791,-61.09527 131.0953,-139.05202 29.10058,-32.77003 53.27321,-59.21885 53.71696,-58.77513 2.45144,2.45144 -57.41174,155.72107 -82.67638,211.67906 -87.60911,194.04322 -187.06834,309.66754 -324.40454,377.1299 -36.09802,17.73203 -71.22094,31.02076 -107.77108,40.77504 -13.316558,3.55378 -25.39444,6.91529 -26.83978,7.46987 -2.133532,0.81875 -2.62782,-26.91694 -2.62782,-147.4567 z"
+         style="opacity:1;fill:#1e90ff;fill-opacity:1;stroke:#ffffff;stroke-width:12.0764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
